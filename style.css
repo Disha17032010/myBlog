@@ -1,0 +1,79 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #000;
+}
+
+ul {
+    list-style-type: none;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    text-align:center;
+    padding: 0px;
+    overflow: hidden;
+	color: blue;
+}
+
+.img {
+    vertical-align: middle;
+	border: 0;
+}
+
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-left: 100px;
+    padding-right: 200px;
+    padding-bottom: 5px;
+    font-family: inherit;
+    font-size: 30px;
+}
+
+#GridView {
+	color: navy;
+	font-family: inherit;
+	font-size: 30px;
+}
+
+#SlideView {
+	color: navy;
+	font-family: inherit;
+	font-size: 30px;
+}
+
+#Y {
+	color: yellow;
+}
+
+#Pi {
+	color: deeppink;
+}
+
+#Pur {
+	color: purple;
+}
+
+#B {
+	color: skyblue;
+}
+
+#W {
+	color: white;
+}
+
+#V {
+	color: blueviolet;
+}
+
+#R {
+    color: red;
+}
+
+#O {
+   color: orangered;
+}
+
+
